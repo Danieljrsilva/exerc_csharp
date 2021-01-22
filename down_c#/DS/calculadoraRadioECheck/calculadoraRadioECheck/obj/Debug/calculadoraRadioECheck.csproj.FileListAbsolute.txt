@@ -1,0 +1,22 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.exe.config
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.csprojResolveAssemblyReference.cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.frmCalculadora.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.Properties.Resources.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.csproj.GenerateResource.Cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.pdb
+F:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.exe.config
+F:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.exe
+F:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.pdb
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.exe.config
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.exe
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\bin\Debug\calculadoraRadioECheck.pdb
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.csprojAssemblyReference.cache
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.frmCalculadora.resources
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.Properties.Resources.resources
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.csproj.GenerateResource.cache
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.csproj.CoreCompileInputs.cache
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.exe
+D:\2 info\DS\calculadoraRadioECheck\calculadoraRadioECheck\obj\Debug\calculadoraRadioECheck.pdb

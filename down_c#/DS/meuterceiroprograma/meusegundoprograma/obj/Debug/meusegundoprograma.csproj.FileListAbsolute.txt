@@ -1,0 +1,40 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\bin\Debug\meusegundoprograma.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\obj\Debug\meusegundoprograma.Form1.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\obj\Debug\meusegundoprograma.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\obj\Debug\meusegundoprograma.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\meusegundoprograma\meusegundoprograma\obj\Debug\meusegundoprograma.pdb
+E:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe.config
+E:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.exe
+E:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.pdb
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe.config
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.exe
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.pdb
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.pdb
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csprojResolveAssemblyReference.cache
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.Form1.resources
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.Properties.Resources.resources
+F:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csproj.GenerateResource.Cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe.config
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csprojResolveAssemblyReference.cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.Properties.Resources.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csproj.GenerateResource.Cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.frmCalculadora.resources
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe.config
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.exe
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\bin\Debug\meusegundoprograma.pdb
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csprojAssemblyReference.cache
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.frmCalculadora.resources
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.Properties.Resources.resources
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csproj.GenerateResource.cache
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.csproj.CoreCompileInputs.cache
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.exe
+D:\2 info\DS\meuterceiroprograma\meusegundoprograma\obj\Debug\meusegundoprograma.pdb

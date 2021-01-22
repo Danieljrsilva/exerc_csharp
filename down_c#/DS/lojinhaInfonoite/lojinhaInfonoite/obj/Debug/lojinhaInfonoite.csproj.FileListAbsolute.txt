@@ -1,0 +1,15 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\bin\Debug\lojinhaInfonoite.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\bin\Debug\lojinhaInfonoite.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\bin\Debug\lojinhaInfonoite.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.Form1.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.pdb
+F:\2 info\DS\lojinhaInfonoite\lojinhaInfonoite\bin\Debug\lojinhaInfonoite.exe.config
+F:\2 info\DS\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.exe
+F:\2 info\DS\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.pdb
+G:\2 info\DS\lojinhaInfonoite\lojinhaInfonoite\bin\Debug\lojinhaInfonoite.exe.config
+G:\2 info\DS\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.exe
+G:\2 info\DS\lojinhaInfonoite\lojinhaInfonoite\obj\Debug\lojinhaInfonoite.pdb

@@ -1,0 +1,12 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.frmSeteDaSorte.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.pdb
+G:\2 info\DS\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.exe.config
+G:\2 info\DS\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.exe
+G:\2 info\DS\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.pdb

@@ -1,0 +1,18 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\arredondamentos\arredondamentos\bin\Debug\arredondamentos.exe.config
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\bin\Debug\arredondamentos.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\bin\Debug\arredondamentos.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\obj\Debug\arredondamentos.csprojResolveAssemblyReference.cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\obj\Debug\arredondamentos.Form1.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\obj\Debug\arredondamentos.Properties.Resources.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\obj\Debug\arredondamentos.csproj.GenerateResource.Cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\obj\Debug\arredondamentos.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\arredondamentos\arredondamentos\obj\Debug\arredondamentos.pdb
+F:\2 info\DS\arredondamentos\arredondamentos\bin\Debug\arredondamentos.exe.config
+F:\2 info\DS\arredondamentos\arredondamentos\obj\Debug\arredondamentos.exe
+F:\2 info\DS\arredondamentos\arredondamentos\obj\Debug\arredondamentos.pdb
+F:\2 info\DS\arredondamentos\arredondamentos\bin\Debug\arredondamentos.exe
+F:\2 info\DS\arredondamentos\arredondamentos\bin\Debug\arredondamentos.pdb
+F:\2 info\DS\arredondamentos\arredondamentos\obj\Debug\arredondamentos.csprojResolveAssemblyReference.cache
+F:\2 info\DS\arredondamentos\arredondamentos\obj\Debug\arredondamentos.Form1.resources
+F:\2 info\DS\arredondamentos\arredondamentos\obj\Debug\arredondamentos.Properties.Resources.resources
+F:\2 info\DS\arredondamentos\arredondamentos\obj\Debug\arredondamentos.csproj.GenerateResource.Cache

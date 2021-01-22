@@ -1,0 +1,22 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\Média\Média\bin\Debug\Média.exe.config
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\bin\Debug\Média.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\bin\Debug\Média.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\obj\Debug\Média.csprojResolveAssemblyReference.cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\obj\Debug\Média.frmMedia.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\obj\Debug\Média.Properties.Resources.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\obj\Debug\Média.csproj.GenerateResource.Cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\obj\Debug\Média.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\Média\Média\obj\Debug\Média.pdb
+F:\2 info\DS\Média\Média\bin\Debug\Média.exe.config
+F:\2 info\DS\Média\Média\obj\Debug\Média.exe
+F:\2 info\DS\Média\Média\obj\Debug\Média.pdb
+D:\2 info\DS\Média\Média\bin\Debug\Média.exe.config
+D:\2 info\DS\Média\Média\bin\Debug\Média.exe
+D:\2 info\DS\Média\Média\bin\Debug\Média.pdb
+D:\2 info\DS\Média\Média\obj\Debug\Média.csprojAssemblyReference.cache
+D:\2 info\DS\Média\Média\obj\Debug\Média.frmMedia.resources
+D:\2 info\DS\Média\Média\obj\Debug\Média.Properties.Resources.resources
+D:\2 info\DS\Média\Média\obj\Debug\Média.csproj.GenerateResource.cache
+D:\2 info\DS\Média\Média\obj\Debug\Média.csproj.CoreCompileInputs.cache
+D:\2 info\DS\Média\Média\obj\Debug\Média.exe
+D:\2 info\DS\Média\Média\obj\Debug\Média.pdb

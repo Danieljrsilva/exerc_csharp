@@ -1,0 +1,13 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\bin\Debug\passandoValoresPorParametro.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\bin\Debug\passandoValoresPorParametro.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\bin\Debug\passandoValoresPorParametro.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.frmPrincipal.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.recebValores.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.pdb
+G:\2 info\DS\passandoValoresPorParametro\passandoValoresPorParametro\bin\Debug\passandoValoresPorParametro.exe.config
+G:\2 info\DS\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.exe
+G:\2 info\DS\passandoValoresPorParametro\passandoValoresPorParametro\obj\Debug\passandoValoresPorParametro.pdb

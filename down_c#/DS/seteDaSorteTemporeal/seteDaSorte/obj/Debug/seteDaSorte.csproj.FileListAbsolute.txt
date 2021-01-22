@@ -1,0 +1,21 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\bin\Debug\seteDaSorte.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.frmSeteDaSorte.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\seteDaSorte\seteDaSorte\obj\Debug\seteDaSorte.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\bin\Debug\seteDaSorte.exe.config
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\bin\Debug\seteDaSorte.exe
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\bin\Debug\seteDaSorte.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.csprojResolveAssemblyReference.cache
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.frmSeteDaSorte.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.Properties.Resources.resources
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.csproj.GenerateResource.Cache
+G:\2 info\DS\seteDaSorteTemporeal\seteDaSorte\bin\Debug\seteDaSorte.exe.config
+G:\2 info\DS\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.exe
+G:\2 info\DS\seteDaSorteTemporeal\seteDaSorte\obj\Debug\seteDaSorte.pdb

@@ -1,0 +1,12 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\bin\Debug\checkERadio.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\obj\Debug\checkERadio.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\obj\Debug\checkERadio.Form1.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\obj\Debug\checkERadio.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\obj\Debug\checkERadio.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\bin\Debug\checkERadio.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\bin\Debug\checkERadio.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\obj\Debug\checkERadio.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\checkERadio\checkERadio\obj\Debug\checkERadio.pdb
+F:\2 info\DS\checkERadio\checkERadio\bin\Debug\checkERadio.exe.config
+F:\2 info\DS\checkERadio\checkERadio\obj\Debug\checkERadio.exe
+F:\2 info\DS\checkERadio\checkERadio\obj\Debug\checkERadio.pdb

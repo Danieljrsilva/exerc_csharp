@@ -1,0 +1,19 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\bin\Debug\lendoPDF.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\bin\Debug\lendoPDF.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\bin\Debug\lendoPDF.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\Interop.AcroPDFLib.dll
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\AxInterop.AcroPDFLib.dll
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.csproj.ResolveComReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.frmPDF.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.pdb
+C:\Users\lab2-12\Documents\Visual Studio 2015\Projects\lendoPDF\lendoPDF\obj\Debug\lendoPDF.frmImagens.resources
+G:\2 info\DS\lendoPDF\lendoPDF\bin\Debug\lendoPDF.exe.config
+G:\2 info\DS\lendoPDF\lendoPDF\obj\Debug\lendoPDF.csproj.ResolveComReference.cache
+G:\2 info\DS\lendoPDF\lendoPDF\obj\Debug\lendoPDF.exe
+G:\2 info\DS\lendoPDF\lendoPDF\obj\Debug\lendoPDF.pdb

@@ -1,0 +1,12 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\bin\Debug\laboratorioETEC.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\bin\Debug\laboratorioETEC.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\bin\Debug\laboratorioETEC.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\obj\Debug\laboratorioETEC.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\obj\Debug\laboratorioETEC.frmLabETEC.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\obj\Debug\laboratorioETEC.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\obj\Debug\laboratorioETEC.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\obj\Debug\laboratorioETEC.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\laboratorioETEC\obj\Debug\laboratorioETEC.pdb
+G:\2 info\DS\laboratorioETEC\bin\Debug\laboratorioETEC.exe.config
+G:\2 info\DS\laboratorioETEC\obj\Debug\laboratorioETEC.exe
+G:\2 info\DS\laboratorioETEC\obj\Debug\laboratorioETEC.pdb

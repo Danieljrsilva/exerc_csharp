@@ -1,0 +1,10 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\bin\Debug\ProvaEmerson.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\bin\Debug\ProvaEmerson.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\bin\Debug\ProvaEmerson.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.Form1.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.Segunda_Tela.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\ProvaEmerson\ProvaEmerson\obj\Debug\ProvaEmerson.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.frmTeclasDeAtalho.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.frmMenu.resources
+G:\2 info\DS\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.exe.config
+G:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.exe
+G:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.pdb
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.exe.config
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.exe
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\bin\Debug\teclasDeAtalho.pdb
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.csprojAssemblyReference.cache
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.frmTeclasDeAtalho.resources
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.frmMenu.resources
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.Properties.Resources.resources
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.csproj.GenerateResource.cache
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.csproj.CoreCompileInputs.cache
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.exe
+D:\2 info\DS\teclasDeAtalho\teclasDeAtalho\obj\Debug\teclasDeAtalho.pdb

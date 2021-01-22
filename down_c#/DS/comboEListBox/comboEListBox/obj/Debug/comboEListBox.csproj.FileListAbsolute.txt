@@ -1,0 +1,9 @@
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\bin\Debug\comboEListBox.exe.config
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\bin\Debug\comboEListBox.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\bin\Debug\comboEListBox.pdb
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\obj\Debug\comboEListBox.csprojResolveAssemblyReference.cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\obj\Debug\comboEListBox.Form1.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\obj\Debug\comboEListBox.Properties.Resources.resources
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\obj\Debug\comboEListBox.csproj.GenerateResource.Cache
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\obj\Debug\comboEListBox.exe
+c:\users\lab2-12\documents\visual studio 2015\Projects\comboEListBox\comboEListBox\obj\Debug\comboEListBox.pdb
